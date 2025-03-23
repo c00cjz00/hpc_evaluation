@@ -1,0 +1,4034 @@
+[
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "C",
+    "output": "A"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "A"
+  },
+  {
+    "answer_idx": "A",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "A",
+    "output": "C"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  },
+  {
+    "answer_idx": "B",
+    "output": "B"
+  }
+]

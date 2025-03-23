@@ -1,0 +1,35 @@
+[
+  {
+    "question": "Which of the following is not true for myelinated nerve fibers:",
+    "options": {
+      "A": "Impulse through myelinated fibers is slower than non-myelinated fibers",
+      "B": "Membrane currents are generated at nodes of Ranvier",
+      "C": "Saltatory conduction of impulses is seen",
+      "D": "Local anesthesia is effective only when the nerve is not covered by myelin sheath"
+    },
+    "answer_idx": "A",
+    "answer": "Impulse through myelinated fibers is slower than non-myelinated fibers"
+  },
+  {
+    "question": "Which of the following is not true about glomerular capillaries')",
+    "options": {
+      "A": "The oncotic pressure of the fluid leaving the capillaries is less than that of fluid entering it",
+      "B": "Glucose concentration in the capillaries is the same as that in glomerular filtrate",
+      "C": "Constriction of afferent aeriole decreases the blood flow to the glomerulas",
+      "D": "Hematocrit of the fluid leaving the capillaries is less than that of the fluid entering it"
+    },
+    "answer_idx": "D",
+    "answer": "Hematocrit of the fluid leaving the capillaries is less than that of the fluid entering it"
+  },
+  {
+    "question": "A 29 yrs old woman with a pregnancy of 17 week has a 10 years old boy with down syndrome. She does not want another down syndrome kid; best advice to her is",
+    "options": {
+      "A": "No test is required now as her age is below 35 years",
+      "B": "Ultra sound at this point of time will definitely tell her that next baby will be down syndromic or not",
+      "C": "Amniotic fluid samples plus chromosomal analysis will definitely tell her that next baby will be down syndromic or not",
+      "D": "blood screening at this point of time will clear the exact picture"
+    },
+    "answer_idx": "C",
+    "answer": "Amniotic fluid samples plus chromosomal analysis will definitely tell her that next baby will be down syndromic or not"
+  }
+]
