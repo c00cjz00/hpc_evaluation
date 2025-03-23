@@ -1,22 +1,51 @@
 # evaluation
 
-0. install
+## 0. install
+- 安裝套件 (I) LOCAL
+```bash=
+mkdir -p $HOME/uv
+cd $HOME/uv
+export PATH=$PATH:$HOME/.local/bin
+curl -LsSf https://astral.sh/uv/install.sh | sh
+uv venv evaluation --python 3.11 && source $HOME/uv/evaluation/bin/activate && uv pip install --upgrade pip
+uv pip install "distilabel[hf-inference-endpoints]"
+uv pip install python-dotenv openai opencc beautifulsoup4 Pillow huggingface-hub
 ```
-uv install (待補)
+- 安裝套件 (II) HPC
+```bash=
+mkdir -p /work/$(whoami)/uv
+cd /work/$(whoami)/uv
+export PATH=$PATH:$HOME/.local/bin
+curl -LsSf https://astral.sh/uv/install.sh | sh
+uv venv evaluation --python 3.11 && source /work/$(whoami)/uv/evaluation/bin/activate && uv pip install --upgrade pip
+uv pip install "distilabel[hf-inference-endpoints]"
+uv pip install python-dotenv openai opencc beautifulsoup4 Pillow huggingface-hub
 ```
 
-1. 啟動vllm server
+- **編輯 登錄HF KEY**
+```bash
+source $HOME/uv/evaluation/bin/activate
+huggingface-cli login
+```
+
+## 1. 啟動vllm server
 ```bash
 ./vllm_server.sh
 ```
 
-2. 確認模型是否運轉
+## 2. 確認模型是否運轉
 ```
 curl -X 'GET' "http://127.0.0.1:8000/v1/models" \
 -H 'accept: application/json' -H "Authorization: Bearer sk1234" |jq
+
+
+curl -X POST "http://127.0.0.1:8000/v1/chat/completions" \
+-H "Authorization: Bearer sk1234" \
+-H "Content-Type: application/json" \
+-d '{ "model": "c00cjz00/phi-4-14b-it-offon-R1-m22k", "messages": [{"role": "user", "content": "123"}], "temperature": 0.6 }'
 ```
 
-3. 分流檔案
+## 3. 分流檔案
 ```
 jq '."MedMCQA_validation"[:3]' data/eval_data.json > data/demo.json
 jq '."MedMCQA_validation"[:10000]' data/eval_data.json > data/MedMCQA_validation.json
@@ -27,25 +56,25 @@ jq '."GPQA_Medical_test"[:10000]' data/eval_data.json > data/GPQA_Medical_test.j
 ```
 
 
-4. 進行評估
+## 4. 進行評估
 ```bash
 #python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/demo.json --port 8000
 python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/demo.json --port 8000 --strict_prompt
 ```
 
-5. 答案校正
+## 5. 答案校正
 ```
 input="output/demo.json"
 output="output/answer_demo.json"
 jq 'map(del(.input_str, .question, .option_str, .options, .answer, .source) | .output = (.output | sub("<think>(.|\n)*?</think>"; "")) | .output = (.output | match("The answer is \\*\\*([A-Z])\\*\\*"; "g") | .captures[0].string))' $input > $output
 ```
 
-6. 統計分數 (demo)
+## 6. 統計分數 (demo)
 ```
 python evaluation/answer_demo.py
 ```
 
-7. 正式運轉測試
+## 7. 正式運轉測試
 ```
 python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/MedMCQA_validation.json --port 8000 --strict_prompt
 python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/MedQA_USLME_test.json --port 8000 --strict_prompt
@@ -54,7 +83,7 @@ python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "
 python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/GPQA_Medical_test.json --port 8000 --strict_prompt
 ```
 
-8. 答案校正
+## 8. 答案校正
 ```
 input="output/MedMCQA_validation.json"
 output="output/answer_MedMCQA_validation.json"
@@ -78,13 +107,13 @@ output="output/answer_GPQA_Medical_test.json"
 jq 'map(del(.input_str, .question, .option_str, .options, .answer, .source) | .output = (.output | sub("<think>(.|\n)*?</think>"; "")) | .output = (.output | match("The answer is \\*\\*([A-Z])\\*\\*"; "g") | .captures[0].string))' $input > $output
 ```
 
-9. 統計分數
+## 9. 統計分數
 ```
 python evaluation/answer.py
 ```
 
 
-10. 關閉vllm
+## 10. 關閉vllm
 ```
 ps aux | grep /opt/venv/bin/vllm | awk '{print $2}' | xargs kill -9
 ```
