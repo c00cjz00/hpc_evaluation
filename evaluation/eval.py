@@ -1,4 +1,4 @@
-# python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/demo.json --port 8000 --max_new_tokens 4096 --batch_size 4 --task api --use_chat_template --strict_prompt
+# python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/demo.json --port 8000 --max_new_tokens 4096 --batch_size 1024 --task api --use_chat_template --strict_prompt
 # python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/demo.json --port 8000 --strict_prompt
 # python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/demo.json --port 8000
 
@@ -37,7 +37,7 @@ def main():
     parser.add_argument('--strict_prompt', action="store_true")
     parser.add_argument('--task', type=str, default='api')
     parser.add_argument('--port', type=int, default=8000)
-    parser.add_argument('--batch_size', type=int, default=8)    
+    parser.add_argument('--batch_size', type=int, default=256)    
     parser.add_argument('--url', type=str, default='http://127.0.0.1')
     parser.add_argument('--api_key', type=str, default='sk1234')
     
