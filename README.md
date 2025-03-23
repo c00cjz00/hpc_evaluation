@@ -8,8 +8,7 @@ cd $HOME/uv
 export PATH=$PATH:$HOME/.local/bin
 curl -LsSf https://astral.sh/uv/install.sh | sh
 uv venv evaluation --python 3.11 && source $HOME/uv/evaluation/bin/activate && uv pip install --upgrade pip
-uv pip install "distilabel[hf-inference-endpoints]"
-uv pip install python-dotenv openai opencc beautifulsoup4 Pillow huggingface-hub
+uv pip install python-dotenv openai opencc beautifulsoup4 Pillow huggingface-hub tqdm jinja2 transformers flax jax jaxlib
 ```
 - 安裝套件 (II) HPC
 ```bash=
@@ -18,8 +17,7 @@ cd /work/$(whoami)/uv
 export PATH=$PATH:$HOME/.local/bin
 curl -LsSf https://astral.sh/uv/install.sh | sh
 uv venv evaluation --python 3.11 && source /work/$(whoami)/uv/evaluation/bin/activate && uv pip install --upgrade pip
-uv pip install "distilabel[hf-inference-endpoints]"
-uv pip install python-dotenv openai opencc beautifulsoup4 Pillow huggingface-hub
+uv pip install python-dotenv openai opencc beautifulsoup4 Pillow huggingface-hub tqdm jinja2 transformers flax jax jaxlib
 ```
 
 - **編輯 登錄HF KEY**
@@ -27,9 +25,19 @@ uv pip install python-dotenv openai opencc beautifulsoup4 Pillow huggingface-hub
 source $HOME/uv/evaluation/bin/activate
 huggingface-cli login
 ```
+- **下載套件**
+```bash
+#mkdir -p /home/$(whoami)/github
+#cd /home/$(whoami)/github
+mkdir -p /work/$(whoami)/github
+cd /work/$(whoami)/github
+git clone https://github.com/c00cjz00/hpc_evaluation
+```
 
 ## 1. 啟動vllm server
 ```bash
+#cd /home/$(whoami)/github/hpc_evaluation
+cd /work/$(whoami)/github/hpc_evaluation
 ./vllm_server.sh
 ```
 
