@@ -8,7 +8,7 @@ cd $HOME/uv
 export PATH=$PATH:$HOME/.local/bin
 curl -LsSf https://astral.sh/uv/install.sh | sh
 uv venv evaluation --python 3.11 && source $HOME/uv/evaluation/bin/activate && uv pip install --upgrade pip
-uv pip install python-dotenv openai opencc beautifulsoup4 Pillow huggingface-hub tqdm jinja2 transformers flax jax jaxlib
+uv pip install openai tqdm jinja2 transformers  python-dotenv  huggingface-hub
 ```
 - 安裝套件 (II) HPC
 ```bash=
@@ -17,7 +17,7 @@ cd /work/$(whoami)/uv
 export PATH=$PATH:$HOME/.local/bin
 curl -LsSf https://astral.sh/uv/install.sh | sh
 uv venv evaluation --python 3.11 && source /work/$(whoami)/uv/evaluation/bin/activate && uv pip install --upgrade pip
-uv pip install python-dotenv openai opencc beautifulsoup4 Pillow huggingface-hub tqdm jinja2 transformers flax jax jaxlib
+uv pip install openai tqdm jinja2 transformers  python-dotenv  huggingface-hub
 ```
 
 - **編輯 登錄HF KEY**
