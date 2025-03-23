@@ -67,8 +67,8 @@ jq '."GPQA_Medical_test"[:10000]' data/eval_data.json > data/GPQA_Medical_test.j
 
 ## 4. 進行評估
 ```bash
-#python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/demo.json --port 8000
-python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/demo.json --port 8000 --strict_prompt
+#python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/demo.json --port 8000 --max_new_tokens 4096 --batch_size 1024
+python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/demo.json --port 8000 --max_new_tokens 4096 --batch_size 1024 --strict_prompt
 ```
 
 ## 5. 答案校正
