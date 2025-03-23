@@ -85,11 +85,11 @@ python evaluation/answer_demo.py
 
 ## 7. 正式運轉測試
 ```
-python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/MedMCQA_validation.json --port 8000 --strict_prompt --max_new_tokens 8192 --batch_size 4183
-python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/MedQA_USLME_test.json --port 8000 --strict_prompt --max_new_tokens 8192 --batch_size 1273
-python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/PubMedQA_test.json --port 8000 --strict_prompt  --max_new_tokens 8192 --batch_size 1000
-python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/MMLU-Pro_Medical_test.json --port 8000 --strict_prompt --max_new_tokens 8192 --batch_size 1535
-python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/GPQA_Medical_test.json --port 8000 --strict_prompt --max_new_tokens 8192 --batch_size 390
+python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/MedMCQA_validation.json --port 8000 --strict_prompt --max_new_tokens 8192 --batch_size 1024
+python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/MedQA_USLME_test.json --port 8000 --strict_prompt --max_new_tokens 8192 --batch_size 1024
+python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/PubMedQA_test.json --port 8000 --strict_prompt  --max_new_tokens 8192 --batch_size 1024
+python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/MMLU-Pro_Medical_test.json --port 8000 --strict_prompt --max_new_tokens 8192 --batch_size 1024
+python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "c00cjz00/phi-4-14b-it-offon-R1-m22k" --eval_file data/GPQA_Medical_test.json --port 8000 --strict_prompt --max_new_tokens 8192 --batch_size 1024
 ```
 
 ## 8. 答案校正
