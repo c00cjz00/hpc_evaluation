@@ -43,10 +43,11 @@ cd /work/$(whoami)/github/hpc_evaluation
 
 ## 2. 確認模型是否運轉
 ```
+# 輸出模型名稱
 curl -X 'GET' "http://127.0.0.1:8000/v1/models" \
 -H 'accept: application/json' -H "Authorization: Bearer sk1234" |jq
 
-
+# 測試模型回應
 curl -X POST "http://127.0.0.1:8000/v1/chat/completions" \
 -H "Authorization: Bearer sk1234" \
 -H "Content-Type: application/json" \
