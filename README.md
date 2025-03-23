@@ -75,7 +75,8 @@ python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "
 ```
 input="output/demo.json"
 output="output/answer_demo.json"
-jq 'map(del(.input_str, .question, .option_str, .options, .answer, .source) | .output = (.output | sub("<think>(.|\n)*?</think>"; "")) | .output = (.output | match("The answer is \\*\\*([A-Z])\\*\\*"; "g") | .captures[0].string))' $input > $output
+#jq 'map(del(.input_str, .question, .option_str, .options, .answer, .source) | .output = (.output | sub("<think>(.|\n)*?</think>"; "")) | .output = (.output | match("The answer is \\*\\*([A-Z])\\*\\*"; "g") | .captures[0].string))' $input > $output
+jq 'map(del(.input_str, .question, .option_str, .options, .answer, .source) | .output = (.output | sub("<think>(.|\n)*?</think>"; "")) | .output = (.output | match("The answer is ([A-Z])"; "g") | if .captures then .captures[0].string else "No answer found" end))'  $input > $output
 ```
 
 ## 6. 統計分數 (demo)
@@ -96,24 +97,23 @@ python evaluation/eval.py --url http://127.0.0.1 --api_key sk1234 --model_name "
 ```
 input="output/MedMCQA_validation.json"
 output="output/answer_MedMCQA_validation.json"
-jq 'map(del(.input_str, .question, .option_str, .options, .answer, .source) | .output = (.output | sub("<think>(.|\n)*?</think>"; "")) | .output = (.output | match("The answer is \\*\\*([A-Z])\\*\\*"; "g") | .captures[0].string))' $input > $output
-
+jq 'map(del(.input_str, .question, .option_str, .options, .answer, .source) | .output = (.output | sub("<think>(.|\n)*?</think>"; "")) | .output = (.output | match("The answer is ([A-Z])"; "g") | if .captures then .captures[0].string else "No answer found" end))'  $input > $output
 
 input="output/MedQA_USLME_test.json"
 output="output/answer_MedQA_USLME_test.json"
-jq 'map(del(.input_str, .question, .option_str, .options, .answer, .source) | .output = (.output | sub("<think>(.|\n)*?</think>"; "")) | .output = (.output | match("The answer is \\*\\*([A-Z])\\*\\*"; "g") | .captures[0].string))' $input > $output
+jq 'map(del(.input_str, .question, .option_str, .options, .answer, .source) | .output = (.output | sub("<think>(.|\n)*?</think>"; "")) | .output = (.output | match("The answer is ([A-Z])"; "g") | if .captures then .captures[0].string else "No answer found" end))'  $input > $output
 
 input="output/PubMedQA_test.json"
 output="output/answer_PubMedQA_test.json"
-jq 'map(del(.input_str, .question, .option_str, .options, .answer, .source) | .output = (.output | sub("<think>(.|\n)*?</think>"; "")) | .output = (.output | match("The answer is \\*\\*([A-Z])\\*\\*"; "g") | .captures[0].string))' $input > $output
+jq 'map(del(.input_str, .question, .option_str, .options, .answer, .source) | .output = (.output | sub("<think>(.|\n)*?</think>"; "")) | .output = (.output | match("The answer is ([A-Z])"; "g") | if .captures then .captures[0].string else "No answer found" end))'  $input > $output
 
 input="output/MMLU-Pro_Medical_test.json"
 output="output/answer_MMLU-Pro_Medical_test.json"
-jq 'map(del(.input_str, .question, .option_str, .options, .answer, .source) | .output = (.output | sub("<think>(.|\n)*?</think>"; "")) | .output = (.output | match("The answer is \\*\\*([A-Z])\\*\\*"; "g") | .captures[0].string))' $input > $output
+jq 'map(del(.input_str, .question, .option_str, .options, .answer, .source) | .output = (.output | sub("<think>(.|\n)*?</think>"; "")) | .output = (.output | match("The answer is ([A-Z])"; "g") | if .captures then .captures[0].string else "No answer found" end))'  $input > $output
 
 input="output/GPQA_Medical_test.json"
 output="output/answer_GPQA_Medical_test.json"
-jq 'map(del(.input_str, .question, .option_str, .options, .answer, .source) | .output = (.output | sub("<think>(.|\n)*?</think>"; "")) | .output = (.output | match("The answer is \\*\\*([A-Z])\\*\\*"; "g") | .captures[0].string))' $input > $output
+jq 'map(del(.input_str, .question, .option_str, .options, .answer, .source) | .output = (.output | sub("<think>(.|\n)*?</think>"; "")) | .output = (.output | match("The answer is ([A-Z])"; "g") | if .captures then .captures[0].string else "No answer found" end))'  $input > $output
 ```
 
 ## 9. 統計分數
